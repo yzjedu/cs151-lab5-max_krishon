@@ -11,12 +11,12 @@
          1. Calculate (initial_balance + new_deposit)
          2. Set value
          3. Output value
-      7. Otherwise, output 'Amount Invalid!"
-   5. Otherwise if user input = 'W'
+      3. Otherwise, output 'Amount Invalid!"
+   3. Otherwise if user input = 'W'
       6. if user input > 0:
          7. Calculate (initial_balance - new_withdrawal)
          8. Set value
          9. Output value
       7. Otherwise, output 'Amount Invalid'
-   6. Otherwise if user input = 'V'
+   4. Otherwise if user input = 'V'
       7. Output most recent balance to user
