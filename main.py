@@ -1,9 +1,6 @@
-# Read the README.md
-# Read it again
-# Your code here
-# Delete these 4 lines of comments
 # Programmed by Max Rice and Krishon Pinkins
 # Loyola CS151, Professor Zee
+# Due Date: October 16, 2024
 # Lab Assignment: 05
 
 
